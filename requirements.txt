@@ -1,0 +1,5 @@
+agno
+openai
+psycopg2-binary
+python-dotenv
+streamlit  # Include this if you want to build a web chatbot
